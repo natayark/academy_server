@@ -1,0 +1,4 @@
+root:pass@word1
+natayark:password0715
+test123:123456
+self:self123
